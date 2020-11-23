@@ -1,0 +1,5 @@
+Hayk,Aramyan,2000,m,77.5
+Vahe,Epremyan,1980,m,64
+Nare,Avdalyan,1990,f,99.5
+Ani,Sahakyan,1760,f,38.75
+Milena,Arzumanyan,1988,f,15.7
